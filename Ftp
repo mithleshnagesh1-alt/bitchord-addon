@@ -1,9 +1,0 @@
-{
-  "id": "com.pawan.bitchord.hires",
-  "name": "Personal Hi-Res & Atmos Provider",
-  "version": "1.0.0",
-  "description": "Dynamic Lossless Audio Resolver",
-  "endpoints": {
-    "resolve": "https://YOUR-VERCEL-PROJECT-NAME.vercel.app/api/resolve"
-  }
-}
